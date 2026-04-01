@@ -1,21 +1,18 @@
-# 0.1 ENAP — Blockchain aplicada à resolução de problemas
+# 0.1 ENAP — Blockchain aplicada à resolução de problemas na Administração Pública
 
 ## Curso (certificado)
 - Plataforma: EV.G / ENAP
 - Link: https://www.escolavirtual.gov.br/curso/533
 
-## Status (Módulo 1)
-- Concluído: ✅
-- Nota: 15/20 (75%)
-- Data: 2026-03-05
+## Status
+- Curso concluído: ✅
 
-## Conteúdo do Módulo 1
-- Apresentação e boas-vindas
-- Unidade 1: Evolução da Blockchain
-- Unidade 2: Do Bloco à Arquitetura — Conceitos Basilares
+## Notas
+- Módulo 1: 15/20 (75%)
+- Módulo 2: 19/20 (95%)
+- Módulo 3: 30/30 (100%)
+- Módulo 4: 27/30 (90%)
 
-## Objetivo do 0.1
-Entender blockchain como tecnologia e saber explicar quando faz sentido e quando não faz sentido.
-
-## Próximo passo
-- Concluir Módulo 2 no ENAP
+## Arquivos desta pasta
+- `prova.md` — registro de notas
+- `exercicios.md` — anotações e exercícios (M1–M4)
