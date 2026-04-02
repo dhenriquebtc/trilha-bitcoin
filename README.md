@@ -17,8 +17,7 @@ Objetivo: construir base sólida e auditável para atuar como consultor de Bitco
 - Todas as práticas seguem postura ética e de conformidade.
 
 ## Progresso
-- [x] 0.1 ENAP — Módulo 1 (15/20)
-- [ ] 0.1 ENAP — Módulo 2
+- [x] 0.1 ENAP — Concluído (M1–M4)
 - [ ] 0.2 Segurança (Google/Coursera)
 
 ---------------------------------------------------------------------------------------------------------------
