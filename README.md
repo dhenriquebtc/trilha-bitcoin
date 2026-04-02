@@ -22,7 +22,7 @@ Objetivo: construir base sólida e auditável para atuar como consultor de Bitco
 
 ---------------------------------------------------------------------------------------------------------------
 
--  ## Estrutura do repositório
+## Estrutura do repositório
 - `00-warmup/` — aquecimento (blockchain + segurança básica)
 - `01-bitcoin-core/` — fundamentos do Bitcoin
 - `02-autocustodia/` — carteiras, backups e segurança operacional
