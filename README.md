@@ -1,4 +1,4 @@
-# Trilha — Consultor Bitcoin/Cripto
+# Trilha — Bitcoin/Cripto
 
 Objetivo: construir base sólida e auditável para atuar como consultor de Bitcoin/Cripto, com foco em:
 - PF/Família: segurança, autocustódia, herança/continuidade e camadas (L1/LN/Liquid)
